@@ -1,0 +1,14 @@
+body{
+ text-align: center;
+    background-color: rgb(228, 189, 215);
+}
+h1{
+    font-size: xx-large;
+color: brown;
+}
+button{
+    margin: 1rem;
+    font-size: medium;
+    border-radius: 0.5rem;
+    border-color: brown;
+}
